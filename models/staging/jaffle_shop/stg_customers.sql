@@ -1,3 +1,5 @@
+--THIS IS A COMMENT
+
 with customers as (
     
     select 
