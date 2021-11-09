@@ -1,4 +1,6 @@
---THIS IS A COMMENT
+
+--THIS IS A BETTER COMMENT THAN CPELLETIER'S
+
 
 with customers as (
     
