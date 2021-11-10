@@ -1,4 +1,4 @@
-{% docs order_status %}
+{% docs order_stats %}
 	
 One of the following values: 
 
