@@ -1,5 +1,9 @@
+{{ config (
+    materialized="table"
+)}}
+
 with oracle_customers as (
-    select * from {{ref('stg_orcl_customers')}}
+    select * from {{ref('stg_orcl_customers')}}  --references the staging views
 
 
 ),
